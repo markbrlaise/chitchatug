@@ -2240,10 +2240,10 @@ input, select, textarea {
 /* Intro */
 
 	#intro {
-		background: url("images/overlay.png"), url("../../images/intro_2.jpeg");
+		background: url("images/overlay.png"), url("../../images/intro_1.jpeg");
 		background-size: 256px 256px, cover;
 		background-attachment: fixed, fixed;
-		background-position: top left, center;
+		background-position: top , top right;
 		background-repeat: repeat, no-repeat;
 	}
 
