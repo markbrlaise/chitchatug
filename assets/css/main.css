@@ -2240,26 +2240,26 @@ input, select, textarea {
 /* Intro */
 
 	#intro {
-		background: url("images/overlay.png"), url("../../images/intro.jpg");
+		background: url("images/overlay.png"), url("../../images/test.jpg");
 		background-size: 256px 256px, cover;
 		background-attachment: fixed, fixed;
-		background-position: top left, bottom center;
+		background-position: top left, center;
 		background-repeat: repeat, no-repeat;
 	}
 
 /* One */
 
 	#one {
-		background: url("images/overlay.png"), url("../../images/one.jpg");
+		background: url("images/overlay.png"), url("../../images/intro_2.jpeg");
 		background-size: 256px 256px, cover;
 		background-attachment: fixed, fixed;
-		background-position: top left, center center;
+		background-position: center center;
 	}
 
 /* Two */
 
 	#two {
-		background: url("images/overlay.png"), url("../../images/two.jpg");
+		background: url("images/overlay.png"), url("../../images/intro_2_edit.jpg");
 		background-size: 256px 256px, cover;
 		background-attachment: fixed, fixed;
 		background-position: top left, center center;
