@@ -2243,9 +2243,13 @@ input, select, textarea {
 		background: url("images/overlay.png"), url("../../images/intro_1.jpeg");
 		background-size: 256px 256px, cover;
 		background-attachment: fixed, fixed;
-		background-position: top center, top right;
+		background-position: top center,top right;
 		background-repeat: repeat, no-repeat;
 	}
+
+	/* @media screen {
+		
+	} */
 
 /* One */
 
